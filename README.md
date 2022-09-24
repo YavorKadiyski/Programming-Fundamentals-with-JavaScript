@@ -1,2 +1,2 @@
 # Programming-Fundamentals-with-JavaScript
-Solving problems in SoftUni university with JS
+Basic-Syntax-Conditional-Statements-Loops
